@@ -1,8 +1,8 @@
 
 <!-- /!\ Non OCA Context : Set here the badge of your runbot / runboat instance. -->
-[![Pre-commit Status](https://github.com/sygel-technology/sy-account-analytic/actions/workflows/pre-commit.yml/badge.svg?branch=16.0)](https://github.com/sygel-technology/sy-account-analytic/actions/workflows/pre-commit.yml?query=branch%3A16.0)
-[![Build Status](https://github.com/sygel-technology/sy-account-analytic/actions/workflows/test.yml/badge.svg?branch=16.0)](https://github.com/sygel-technology/sy-account-analytic/actions/workflows/test.yml?query=branch%3A16.0)
-[![codecov](https://codecov.io/gh/sygel-technology/sy-account-analytic/branch/16.0/graph/badge.svg)](https://codecov.io/gh/sygel-technology/sy-account-analytic)
+[![Pre-commit Status](https://github.com/sygel-technology/sy-account-analytic/actions/workflows/pre-commit.yml/badge.svg?branch=15.0)](https://github.com/sygel-technology/sy-account-analytic/actions/workflows/pre-commit.yml?query=branch%3A15.0)
+[![Build Status](https://github.com/sygel-technology/sy-account-analytic/actions/workflows/test.yml/badge.svg?branch=15.0)](https://github.com/sygel-technology/sy-account-analytic/actions/workflows/test.yml?query=branch%3A15.0)
+[![codecov](https://codecov.io/gh/sygel-technology/sy-account-analytic/branch/15.0/graph/badge.svg)](https://codecov.io/gh/sygel-technology/sy-account-analytic)
 <!-- /!\ Non OCA Context : Set here the badge of your translation instance. -->
 
 <!-- /!\ do not modify above this line -->
@@ -17,11 +17,7 @@ Odoo Account Analytic Related Addons
 
 [//]: # (addons)
 
-Available addons
-----------------
-addon | version | maintainers | summary
---- | --- | --- | ---
-[account_timesheet_time_type](account_timesheet_time_type/) | 16.0.1.0.0 |  | Time type in analytic account lines views
+This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
 
 [//]: # (end addons)
 
