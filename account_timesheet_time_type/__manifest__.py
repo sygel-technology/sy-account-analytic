@@ -6,16 +6,14 @@
     "summary": "Time type in analytic account lines views",
     "version": "16.0.1.0.0",
     "category": "Analytic",
-    "website": "https://www.sygel.es",
+    "website": "https://github.com/sygel-technology/sy-account-analytic",
     "author": "Sygel, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,
     "installable": True,
     "depends": [
-        'analytic',
-        'hr_timesheet_time_type',
-    ],   
-    "data": [
-        "views/analytic_account_view.xml"
+        "analytic",
+        "hr_timesheet_time_type",
     ],
+    "data": ["views/analytic_account_view.xml"],
 }
