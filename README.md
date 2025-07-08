@@ -21,6 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[account_analytic_distribution_with_account](account_analytic_distribution_with_account/) | 16.0.1.0.0 |  | Adds Account To Account Analytic Distribution Model
 [account_timesheet_time_type](account_timesheet_time_type/) | 16.0.1.0.0 |  | Time type in analytic account lines views
 
 [//]: # (end addons)
