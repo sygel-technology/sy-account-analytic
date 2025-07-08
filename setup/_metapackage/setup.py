@@ -8,6 +8,7 @@ setuptools.setup(
     description="Meta package for sygel-technology-sy-account-analytic Odoo addons",
     version=version,
     install_requires=[
+        'odoo-addon-account_analytic_distribution_with_account>=16.0dev,<16.1dev',
         'odoo-addon-account_timesheet_time_type>=16.0dev,<16.1dev',
     ],
     classifiers=[
