@@ -4,7 +4,7 @@
 {
     "name": "Account Analytic Distribution With Account",
     "summary": "Adds Account To Account Analytic Distribution Model",
-    "version": "16.0.1.0.0",
+    "version": "18.0.1.0.0",
     "category": "Account",
     "website": "https://github.com/sygel-technology/sy-account-analytic",
     "author": "Sygel, Odoo Community Association (OCA)",
