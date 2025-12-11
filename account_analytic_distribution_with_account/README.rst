@@ -17,12 +17,13 @@ Account Analytic Distribution With Account
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-sygel--technology%2Fsy--account--analytic-lightgray.png?logo=github
-    :target: https://github.com/sygel-technology/sy-account-analytic/tree/16.0/account_analytic_distribution_with_account
+    :target: https://github.com/sygel-technology/sy-account-analytic/tree/18.0/account_analytic_distribution_with_account
     :alt: sygel-technology/sy-account-analytic
 
 |badge1| |badge2| |badge3|
 
-The module adds the account field to the analytical distribution accounts.
+The module adds the account field to the analytical distribution
+accounts.
 
 **Table of contents**
 
@@ -34,10 +35,10 @@ Usage
 
 To use this module, you need to:
 
-#. Go to Account module.
-#. Go to Configuration -> Analytic Distribution Models.
-#. Edit or create a new one.
-#. Add Accounts to the selected Analytic Distribution Model.
+1. Go to Account module.
+2. Go to Configuration -> Analytic Distribution Models.
+3. Edit or create a new one.
+4. Add Accounts to the selected Analytic Distribution Model.
 
 Bug Tracker
 ===========
@@ -45,7 +46,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/sygel-technology/sy-account-analytic/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us to smash it by providing a detailed and welcomed
-`feedback <https://github.com/sygel-technology/sy-account-analytic/issues/new?body=module:%20account_analytic_distribution_with_account%0Aversion:%2016.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/sygel-technology/sy-account-analytic/issues/new?body=module:%20account_analytic_distribution_with_account%0Aversion:%2018.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -53,21 +54,21 @@ Credits
 =======
 
 Authors
-~~~~~~~
+-------
 
 * Sygel
 
 Contributors
-~~~~~~~~~~~~
+------------
 
-* `Sygel <https://www.sygel.es>`__:
+-  `Sygel <https://www.sygel.es>`__:
 
-  * Valentín Vinagre
-  * Ángel García de la Chica Herrera
+   -  Valentín Vinagre
+   -  Ángel García de la Chica Herrera
 
 Maintainers
-~~~~~~~~~~~
+-----------
 
-This module is part of the `sygel-technology/sy-account-analytic <https://github.com/sygel-technology/sy-account-analytic/tree/16.0/account_analytic_distribution_with_account>`_ project on GitHub.
+This module is part of the `sygel-technology/sy-account-analytic <https://github.com/sygel-technology/sy-account-analytic/tree/18.0/account_analytic_distribution_with_account>`_ project on GitHub.
 
 You are welcome to contribute.
