@@ -16,6 +16,13 @@ Odoo Account Analytic Related Addons
 <!-- prettier-ignore-start -->
 
 [//]: # (addons)
+
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[account_analytic_distribution_with_account](account_analytic_distribution_with_account/) | 18.0.1.0.0 |  | Adds Account To Account Analytic Distribution Model
+
 [//]: # (end addons)
 
 <!-- prettier-ignore-end -->
